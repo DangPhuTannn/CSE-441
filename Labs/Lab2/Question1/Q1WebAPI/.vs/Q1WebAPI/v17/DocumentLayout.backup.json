@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\CSE441\\DemoReactNativeCLI\\Labs\\Lab2\\Question1\\Q1WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332899E1-5E59-4A9A-A8AA-0F6713E3EC04}|Q1WebAPI\\Q1WebAPI.csproj|t:\\cse441\\demoreactnativecli\\labs\\lab2\\question1\\q1webapi\\q1webapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332899E1-5E59-4A9A-A8AA-0F6713E3EC04}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332899E1-5E59-4A9A-A8AA-0F6713E3EC04}|Q1WebAPI\\Q1WebAPI.csproj|t:\\cse441\\demoreactnativecli\\labs\\lab2\\question1\\q1webapi\\q1webapi\\migrations\\20250504162749_create book table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332899E1-5E59-4A9A-A8AA-0F6713E3EC04}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\migrations\\20250504162749_create book table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332899E1-5E59-4A9A-A8AA-0F6713E3EC04}|Q1WebAPI\\Q1WebAPI.csproj|t:\\cse441\\demoreactnativecli\\labs\\lab2\\question1\\q1webapi\\q1webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332899E1-5E59-4A9A-A8AA-0F6713E3EC04}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332899E1-5E59-4A9A-A8AA-0F6713E3EC04}|Q1WebAPI\\Q1WebAPI.csproj|t:\\cse441\\demoreactnativecli\\labs\\lab2\\question1\\q1webapi\\q1webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332899E1-5E59-4A9A-A8AA-0F6713E3EC04}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250504162749_Create Book Table.cs",
+              "DocumentMoniker": "T:\\CSE441\\DemoReactNativeCLI\\Labs\\Lab2\\Question1\\Q1WebAPI\\Q1WebAPI\\Migrations\\20250504162749_Create Book Table.cs",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Migrations\\20250504162749_Create Book Table.cs",
+              "ToolTip": "T:\\CSE441\\DemoReactNativeCLI\\Labs\\Lab2\\Question1\\Q1WebAPI\\Q1WebAPI\\Migrations\\20250504162749_Create Book Table.cs",
+              "RelativeToolTip": "Q1WebAPI\\Migrations\\20250504162749_Create Book Table.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:27:50.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "T:\\CSE441\\DemoReactNativeCLI\\Labs\\Lab2\\Question1\\Q1WebAPI\\Q1WebAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Controllers\\BookController.cs",
+              "ToolTip": "T:\\CSE441\\DemoReactNativeCLI\\Labs\\Lab2\\Question1\\Q1WebAPI\\Q1WebAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Q1WebAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:52:39.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "T:\\CSE441\\DemoReactNativeCLI\\Labs\\Lab2\\Question1\\Q1WebAPI\\Q1WebAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Models\\Book.cs",
+              "ToolTip": "T:\\CSE441\\DemoReactNativeCLI\\Labs\\Lab2\\Question1\\Q1WebAPI\\Q1WebAPI\\Models\\Book.cs",
+              "RelativeToolTip": "Q1WebAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:48:22.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "T:\\CSE441\\DemoReactNativeCLI\\Labs\\Lab2\\Question1\\Q1WebAPI\\Q1WebAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "T:\\CSE441\\DemoReactNativeCLI\\Labs\\Lab2\\Question1\\Q1WebAPI\\Q1WebAPI\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Q1WebAPI\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:46:50.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
